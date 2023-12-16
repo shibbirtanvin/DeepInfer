@@ -5,13 +5,14 @@ The structure of this repository is below:
 
 ## Index
 > 1. Models
-> 2. Datasets
-> 3. Source Codes
+> 2. Source Codes
   >> * Data precondition inference with a trained DNN model (inferDataPrecondition.py)
   >> * Unseen data prediction with DeepInfer (unseenPrediction.py)
   >> * Source codes of PIMA diabetes, House Price, German Credit, Bank Customer model prediction
   >> * ReadMe file to execute codes
-> 4. Appendix with the derivation of wp rules
+> 3. Appendix with the derivation of wp rules
+
+For reproducibility, we intend to release the complete artifact soon.
 
 ### Cite the paper as
 ```
