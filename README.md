@@ -12,7 +12,7 @@ The structure of this repository is below:
   >> * ReadMe file to execute codes
 > 3. Appendix with the derivation of wp rules
 
-For reproducibility, we intend to release the complete artifact soon.
+**We plan to release the full artifact soon for reproducibility. Stay tuned!**
 
 ### Cite the paper as
 ```
