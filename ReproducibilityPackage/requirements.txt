@@ -1,0 +1,7 @@
+tensorflow==2.2.0
+numpy==1.19.2
+pandas==1.1.5
+Scikit-learn==0.21.2
+Scipy==1.4.1
+Keras == 2.4.0
+protobuf==3.20.*
